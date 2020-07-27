@@ -1,16 +1,15 @@
-### Hi there 👋
+# Alfredo Barragán- web developer
 
-<!--
-**alfredobp/alfredobp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![N|Solid](https://www.kabukis.com/wp-content/uploads/2015/03/juego-chrome.gif)](https://nodesource.com/products/nsolid)
 
-Here are some ideas to get you started:
+Alfredo Barragán es Desarrollador de Aplicaciones Web, siendo sus especialidades el desarrollo bajo los lenguajes de php, react y node js. Actualmente trabajo con el framework Zend y la librería Omeka S para la creación de exposiciones virtuales para Universidades y Centros de investigación de todo el mundo.
+En sus ratos libres, aprende de forma autodidacta sobre tecnologías geoespaciales, visualizaciones de datos y minería de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# También es Técnico SIG!
+Con experiencia en el sector de la consultoría ambiental, desempeña las siguientes habilidades:
+  - Diseña mapas a partir de cualquier fuente de datos que se pueda localizar en el territorio.
+  - Obtiene conclusiones del análisis territorial.
+  - Diseña soluciones sostenibles para minimizar el impacto medio ambiental
+
+
+Contacto: alfredobape@gmail.com
